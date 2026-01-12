@@ -4,3 +4,4 @@ This is my return to greatness
 ill have a set project soon
 im making a habit tracker 
 and chess bot
+learning git and claude code
