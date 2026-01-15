@@ -9,4 +9,4 @@ and notion
 
 
 
-comimg  soon
+coming  soon
