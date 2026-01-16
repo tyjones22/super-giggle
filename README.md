@@ -6,7 +6,7 @@ im making a habit tracker
 and chess bot
 learning git and claude code
 and notion
-
+unfortunately missed a day
 
 
 coming  soon
