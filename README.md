@@ -7,6 +7,6 @@ and chess bot
 learning git and claude code
 and notion
 unfortunately missed a day
-
+but back on track
 
 coming  soon
