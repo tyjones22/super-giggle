@@ -10,3 +10,4 @@ unfortunately missed a day
 but back on track
 
 coming  soon
+i need to make a quant project
