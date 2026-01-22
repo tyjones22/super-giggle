@@ -12,3 +12,4 @@ but back on track
 coming  soon
 i need to make a quant project
 i need to get better at stats
+and physics 
