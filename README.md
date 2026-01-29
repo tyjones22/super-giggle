@@ -15,3 +15,4 @@ i need to get better at stats
 and physics 
 and calculus 
  talk about this in my blog 
+need to look into stock fish 
